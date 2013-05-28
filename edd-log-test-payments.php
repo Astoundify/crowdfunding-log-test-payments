@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Easy Digital Downloads - Record Test Payments 
- * Plugin URI:  http://github.com/astoundify/crowdfunding-test-payments
+ * Plugin URI:  https://github.com/Astoundify/crowdfunding-log-test-payments
  * Description: Log test payments.
  * Author:      Astoundify
  * Author URI:  http://astoundify.com
